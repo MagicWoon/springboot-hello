@@ -1,0 +1,11 @@
+#server.port=6660
+#server.servlet.context-path=/wh
+
+#image.server=http://img.wh.com
+#
+#spring.mvc.date-format=yyyy-MM-dd
+#spring.jackson.date-format=yyyy-MM-dd HH:mm:ss
+#spring.jackson.time-zone=GMT+8
+#
+#logging.file=E://QFStudy//Month4//study//logs//all.log
+#logging.level.root=info

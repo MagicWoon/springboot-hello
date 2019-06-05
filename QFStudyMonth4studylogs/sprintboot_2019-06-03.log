@@ -1,0 +1,16 @@
+2019-06-03 18:08:11 INFO  [restartedMain]  c.w.s.SpringbootHello01Application - Starting SpringbootHello01Application on LAPTOP-51S9I3JC with PID 2388 (E:\QFStudy\Month4\study\Day01-springboot-hello\target\classes started by Magic Woo in E:\QFStudy\Month4\study\Day01-springboot-hello)
+2019-06-03 18:08:11 INFO  [restartedMain]  c.w.s.SpringbootHello01Application - No active profile set, falling back to default profiles: default
+2019-06-03 18:08:11 INFO  [restartedMain]  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2019-06-03 18:08:11 INFO  [restartedMain]  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2019-06-03 18:08:13 INFO  [restartedMain]  o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 6660 (http)
+2019-06-03 18:08:13 INFO  [restartedMain]  o.a.c.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-6660"]
+2019-06-03 18:08:13 INFO  [restartedMain]  o.a.c.core.StandardService - Starting service [Tomcat]
+2019-06-03 18:08:13 INFO  [restartedMain]  o.a.c.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-06-03 18:08:13 INFO  [restartedMain]  o.a.c.c.C.[.[localhost].[/wh] - Initializing Spring embedded WebApplicationContext
+2019-06-03 18:08:13 INFO  [restartedMain]  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1925 ms
+2019-06-03 18:08:14 INFO  [restartedMain]  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-06-03 18:08:14 INFO  [restartedMain]  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2019-06-03 18:08:14 INFO  [restartedMain]  o.a.c.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-6660"]
+2019-06-03 18:08:14 INFO  [restartedMain]  o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 6660 (http) with context path '/wh'
+2019-06-03 18:08:14 INFO  [restartedMain]  c.w.s.SpringbootHello01Application - Started SpringbootHello01Application in 3.31 seconds (JVM running for 5.405)
+2019-06-03 18:09:37 INFO  [Thread-13]  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
